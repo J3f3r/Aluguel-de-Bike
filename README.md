@@ -13,5 +13,5 @@ Após implantar e testar o serviço em Endpoints, foi utilizado um código JSON 
 ## 📄 Documentação utilizada
 [Documentação Microsoft] (https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html)
 
-## 🔍 Refências 
+## 🔍 Referências 
 - [Digital Inovation One](https://web.dio.me/).
